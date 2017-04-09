@@ -24,4 +24,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>jenkins-Hello_Word-WS_Jax-RS</module>
+  </modules>
 </project>
